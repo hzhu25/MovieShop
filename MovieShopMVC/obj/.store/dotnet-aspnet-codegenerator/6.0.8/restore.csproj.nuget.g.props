@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/hongzhu/Desktop/Training/Web/MovieShop/MovieShopMVC/obj/.store/.stage/d445w23e.oqu</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/hongzhu/Desktop/Training/Web/MovieShop/MovieShopMVC/obj/.store/.stage/d445w23e.oqu</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">DotnetToolReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.2.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="/Users/hongzhu/Desktop/Training/Web/MovieShop/MovieShopMVC/obj/.store/.stage/d445w23e.oqu/" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgdotnet-aspnet-codegenerator Condition=" '$(Pkgdotnet-aspnet-codegenerator)' == '' ">/Users/hongzhu/Desktop/Training/Web/MovieShop/MovieShopMVC/obj/.store/.stage/d445w23e.oqu/dotnet-aspnet-codegenerator/6.0.8</Pkgdotnet-aspnet-codegenerator>
+  </PropertyGroup>
+</Project>

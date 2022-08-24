@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{1A8DCF69-A836-4391-9943-08D699DE0EC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.MovieShopMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Services/CastService.cs">
+    <Files>
+      <File FileName="ApplicationCore/Contracts/Services/ICastService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/CastRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/PurchaseRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/ReportRepository.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/MovieService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/UserService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/AccountService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/GenreService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/AdminService.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Services/CastService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieShop" expanded="True">
+            <Node name="ApplicationCore" expanded="True">
+              <Node name="Contracts" expanded="True">
+                <Node name="Repositories" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MovieShopMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ApplicationCore FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
