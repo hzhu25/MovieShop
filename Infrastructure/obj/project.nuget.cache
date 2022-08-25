@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kx+b1GVC+JTO4JgxM/7l3qRqr0ZTii54YkLcaQRcKIKrTTmhNN2gm/7aVxKrMJyXkKbNj+IoHxOvInTVEMMZqw==",
+  "dgSpecHash": "LoYCIvfrKuWqdiyHeGCGkOqO8F/jgmcA4o2rhnXRxHeiBblmUnic15xfdzmUwRsE3xinPGSY3MpVQ5Xt6rDblw==",
   "success": true,
-  "projectFilePath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "/Users/hongzhu/Desktop/MovieShop/Infrastructure/Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

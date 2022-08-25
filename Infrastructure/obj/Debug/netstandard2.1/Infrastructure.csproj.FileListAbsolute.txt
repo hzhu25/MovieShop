@@ -1,0 +1,13 @@
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.AssemblyReference.cache
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb

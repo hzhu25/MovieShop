@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj": {}
+    "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj": {}
   },
   "projects": {
-    "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj": {
+    "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj",
+        "projectUniqueName": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj",
+        "projectPath": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj",
         "packagesPath": "/Users/hongzhu/.nuget/packages/",
-        "outputPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/obj/",
+        "outputPath": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hongzhu/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDbeYb2WN+IbL0G+ElwmjvH0lS1cCl/FEhBAsHj//fNavB/fa8uAUxbIBJmsxIyOtmRN6XcocWlbDwE3/wjGdQ==",
+  "dgSpecHash": "B1ZxOu5GfpFgXW6WdVAfOhEMlp0aNSERx/FhAeyxs5ZCg5yAA0ItPmjFYASfOhUrU7A17G6aw/ieuCjFzaK7Nw==",
   "success": true,
-  "projectFilePath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/MovieShopMVC/MovieShopMVC.csproj",
+  "projectFilePath": "/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/MovieShopMVC.csproj",
   "expectedPackageFiles": [
     "/Users/hongzhu/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
     "/Users/hongzhu/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/Infrastructure.csproj": {}
+    "/Users/hongzhu/Desktop/MovieShop/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj": {
+    "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj",
+        "projectUniqueName": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj",
+        "projectPath": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj",
         "packagesPath": "/Users/hongzhu/.nuget/packages/",
-        "outputPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/obj/",
+        "outputPath": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hongzhu/.nuget/NuGet/NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/Infrastructure.csproj": {
+    "/Users/hongzhu/Desktop/MovieShop/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/hongzhu/Desktop/MovieShop/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/hongzhu/Desktop/MovieShop/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/hongzhu/.nuget/packages/",
-        "outputPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/Infrastructure/obj/",
+        "outputPath": "/Users/hongzhu/Desktop/MovieShop/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hongzhu/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj": {
-                "projectPath": "/Users/hongzhu/Desktop/Training/Web/MovieShop/ApplicationCore/ApplicationCore.csproj"
+              "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj": {
+                "projectPath": "/Users/hongzhu/Desktop/MovieShop/ApplicationCore/ApplicationCore.csproj"
               }
             }
           }
