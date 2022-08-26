@@ -1,0 +1,12 @@
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/bin/Debug/net6.0/ApplicationCore.deps.json
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/bin/Debug/net6.0/ApplicationCore.dll
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfo.cs
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.dll
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/refint/ApplicationCore.dll
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ApplicationCore.pdb
+/Users/hongzhu/Desktop/MovieShop/ApplicationCore/obj/Debug/net6.0/ref/ApplicationCore.dll

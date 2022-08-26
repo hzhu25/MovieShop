@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+8HnB4mySZU7zLoM+JLhTTYwstBDiBq3WLg30x9cQl4=",
+  "Hash": "7WJ5ZJiP1SKG8BCQyCJ0Lr1M5Eld1sepiM9l3V5wWqA=",
   "Source": "MovieShopMVC",
   "BasePath": "_content/MovieShopMVC",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/obj/Debug/net6.0/scopedcss/projectbundle/MovieShopMVC.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/wwwroot/.DS_Store",
+      "SourceId": "MovieShopMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/wwwroot/",
+      "BasePath": "_content/MovieShopMVC",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/wwwroot/css/site.css",

@@ -1,9 +1,11 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 namespace ApplicationCore.Entities
 {
     public class Movie
     {
         public int Id { get; set; }
+        [MaxLength(256)]
         public string Title { get; set; } = null!;
         public string Overview { get; set; } = null!;
         public string Tagline { get; set; } = null!;
@@ -13,6 +15,8 @@ namespace ApplicationCore.Entities
         public string TmdbUrl { get; set; } = null!;
         public string PosterUrl { get; set; } = null!;
         public string BackdropUrl { get; set; } = null!;
+
+        [MaxLength(64)]
         public string OriginalLanguage { get; set; } = null!;
         public DateTime? ReleaseDate { get; set; }
         public int? RunTime { get; set; }
@@ -22,6 +26,9 @@ namespace ApplicationCore.Entities
         public string? UpdatedBy { get; set; }
         public string? CreatedBy { get; set; }
         public decimal? Rating { get; set; }
+
+        public ICollection<MovieGenre> GenresOfMovie { get; set; }
+        public ICollection<Trailer> Trailers { get; set; }
     }
 }
 
