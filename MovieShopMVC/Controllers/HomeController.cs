@@ -18,10 +18,10 @@ public class HomeController : Controller
         _movieService = movieService;
     }
 
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
-        var movies = _movieService.GetTop30GrossingMovies();
-        return View(movies);
+        var movieCards = await _movieService.GetTopRevenueMovies();
+        return View(movieCards);
     }
 
     public IActionResult Privacy()
