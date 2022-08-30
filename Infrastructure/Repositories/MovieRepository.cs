@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using ApplicationCore.Contracts.Repositories;
 using ApplicationCore.Entities;
+using ApplicationCore.Models;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -31,6 +32,30 @@ namespace Infrastructure.Repositories
         {
             var movies = await _movieShopDbContext.Movies.OrderByDescending(m => m.Revenue).Take(30).ToListAsync();
             return movies;
+        }
+
+        public async Task<PaginatedResultSet<Movie>> GetMovieByGenrePagination(int genreId, int pageSize = 30, int page = 1)
+        {
+            var totalMoviesCountOfGenre = await _movieShopDbContext.MovieGenres.Where(g => g.GenreId == genreId).CountAsync();
+            if (totalMoviesCountOfGenre == 0)
+            {
+                throw new Exception("No Movies found for this genre!");
+            }
+            var movies = await _movieShopDbContext.MovieGenres.Where(g => g.GenreId == genreId)
+                .Include(g => g.Movie)
+                .OrderByDescending(m => m.Movie.Revenue)
+                .Select(m => new Movie
+                {
+                    Id = m.MovieId,
+                    PosterUrl = m.Movie.PosterUrl,
+                    Title = m.Movie.Title
+                })
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToListAsync();
+
+            var pagedMovies = new PaginatedResultSet<Movie>(movies, page, pageSize, totalMoviesCountOfGenre);
+            return pagedMovies;
         }
     }
 }

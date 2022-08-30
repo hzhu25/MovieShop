@@ -5,32 +5,16 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MovieShopMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Repositories/MovieRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Views/Movies/GenreMovies.cshtml">
     <Files>
-      <File FileName="ApplicationCore/Entities/Favorite.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Genre.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Movie.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/MovieCast.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Role.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Models/TrailerModel.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Models/GenreModel.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Models/CastModel.cs" Line="1" Column="1" />
-      <File FileName="MovieShopMVC/Views/Movies/Details.cshtml" Line="5" Column="73" />
-      <File FileName="Infrastructure/Data/MovieShopDbContext.cs" Line="109" Column="6" />
-      <File FileName="ApplicationCore/Entities/UserRole.cs" Line="1" Column="1" />
-      <File FileName="MovieShopMVC/Controllers/CastController.cs" Line="21" Column="60" />
-      <File FileName="ApplicationCore/Contracts/Services/ICastService.cs" Line="8" Column="22" />
-      <File FileName="ApplicationCore/Models/CastDetailsModel.cs" Line="18" Column="6" />
-      <File FileName="Infrastructure/Services/CastService.cs" Line="40" Column="33" />
-      <File FileName="ApplicationCore/Contracts/Repositories/ICastRepository.cs" Line="8" Column="36" />
-      <File FileName="Infrastructure/Repositories/CastRepository.cs" Line="18" Column="18" />
-      <File FileName="ApplicationCore/Models/MovieDetailsModel.cs" Line="21" Column="29" />
-      <File FileName="ApplicationCore/Contracts/Services/IMovieService.cs" Line="9" Column="39" />
-      <File FileName="Infrastructure/Services/MovieService.cs" Line="77" Column="61" />
-      <File FileName="ApplicationCore/Contracts/Repositories/IMovieRepository.cs" Line="9" Column="27" />
-      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="35" Column="10" />
-      <File FileName="ApplicationCore/Models/MovieCardModel.cs" Line="5" Column="6" />
-      <File FileName="MovieShopMVC/Controllers/HomeController.cs" Line="23" Column="55" />
+      <File FileName="MovieShopMVC/Controllers/MoviesController.cs" Line="27" Column="61" />
+      <File FileName="ApplicationCore/Contracts/Services/IMovieService.cs" Line="12" Column="50" />
+      <File FileName="ApplicationCore/Models/PaginatedResultSet.cs" Line="17" Column="33" />
+      <File FileName="Infrastructure/Services/MovieService.cs" Line="77" Column="54" />
+      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="52" Column="19" />
+      <File FileName="MovieShopMVC/Views/Movies/GenreMovies.cshtml" Line="9" Column="22" />
+      <File FileName="ApplicationCore/Contracts/Repositories/IMovieRepository.cs" Line="1" Column="1" />
+      <File FileName="MovieShopMVC/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -44,13 +28,18 @@
               <Node name="Models" expanded="True" />
             </Node>
             <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
               <Node name="Repositories" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
             <Node name="MovieShopMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Movies" expanded="True" />
+                <Node name="Casts" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True">
+                  <Node name="GenreMovies.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
