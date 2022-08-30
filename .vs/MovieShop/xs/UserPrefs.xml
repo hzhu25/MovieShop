@@ -5,16 +5,18 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MovieShopMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Views/Movies/GenreMovies.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Controllers/AccountController.cs">
     <Files>
-      <File FileName="MovieShopMVC/Controllers/MoviesController.cs" Line="27" Column="61" />
-      <File FileName="ApplicationCore/Contracts/Services/IMovieService.cs" Line="12" Column="50" />
-      <File FileName="ApplicationCore/Models/PaginatedResultSet.cs" Line="17" Column="33" />
-      <File FileName="Infrastructure/Services/MovieService.cs" Line="77" Column="54" />
-      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="52" Column="19" />
-      <File FileName="MovieShopMVC/Views/Movies/GenreMovies.cshtml" Line="9" Column="22" />
-      <File FileName="ApplicationCore/Contracts/Repositories/IMovieRepository.cs" Line="1" Column="1" />
-      <File FileName="MovieShopMVC/Program.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/Repositories/GenreRepository.cs" Line="23" Column="2" />
+      <File FileName="MovieShopMVC/Views/Shared/_Layout.cshtml" Line="20" Column="20" />
+      <File FileName="MovieShopMVC/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="MovieShopMVC/Controllers/AccountController.cs" Line="15" Column="10" />
+      <File FileName="MovieShopMVC/Models/UserRegisterModel.cs" Line="14" Column="1" />
+      <File FileName="MovieShopMVC/Models/UserLoginModel.cs" Line="10" Column="1" />
+      <File FileName="MovieShopMVC/Views/Account/Register.cshtml" Line="9" Column="27" />
+      <File FileName="ApplicationCore/Models/UserRegisterModel.cs" Line="20" Column="1" />
+      <File FileName="ApplicationCore/Models/UserLoginModel.cs" Line="15" Column="2" />
+      <File FileName="MovieShopMVC/Views/Account/Index.cshtml" Line="22" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -29,17 +31,12 @@
             </Node>
             <Node name="Infrastructure" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Repositories" expanded="True" />
-              <Node name="Services" expanded="True" />
             </Node>
             <Node name="MovieShopMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Casts" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Movies" expanded="True">
-                  <Node name="GenreMovies.cshtml" selected="True" />
-                </Node>
+                <Node name="Account" expanded="True" />
               </Node>
             </Node>
           </Node>
