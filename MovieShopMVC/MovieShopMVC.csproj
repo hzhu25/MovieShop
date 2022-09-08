@@ -14,6 +14,8 @@
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
     <None Remove="Views\Casts\" />
     <None Remove="Views\Account\" />
+    <None Remove="Infra\" />
+    <None Remove="Views\User\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
@@ -36,5 +38,7 @@
     <Folder Include="Views\Movies\" />
     <Folder Include="Views\Casts\" />
     <Folder Include="Views\Account\" />
+    <Folder Include="Infra\" />
+    <Folder Include="Views\User\" />
   </ItemGroup>
 </Project>

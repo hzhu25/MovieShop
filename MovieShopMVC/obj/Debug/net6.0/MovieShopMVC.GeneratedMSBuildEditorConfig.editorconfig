@@ -47,16 +47,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_AddReviewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZGRSZXZpZXdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_Genres.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19HZW5yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_LoginInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpbkluZm9QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_MovieCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Nb3ZpZUNhcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_PurchaseDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QdXJjaGFzZURldGFpbHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_UpdateReviewPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19VcGRhdGVSZXZpZXdQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/User/Purchase.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9QdXJjaGFzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/hongzhu/Desktop/MovieShop/MovieShopMVC/Views/_ViewImports.cshtml]

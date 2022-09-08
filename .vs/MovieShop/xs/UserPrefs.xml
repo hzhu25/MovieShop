@@ -6,31 +6,7 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Controllers/AccountController.cs">
-    <Files>
-      <File FileName="Infrastructure/Repositories/GenreRepository.cs" Line="23" Column="2" />
-      <File FileName="MovieShopMVC/Views/Shared/_Layout.cshtml" Line="20" Column="20" />
-      <File FileName="MovieShopMVC/Views/Home/Index.cshtml" Line="1" Column="1" />
-      <File FileName="MovieShopMVC/Controllers/AccountController.cs" Line="48" Column="14" />
-      <File FileName="MovieShopMVC/Views/Account/Register.cshtml" Line="9" Column="27" />
-      <File FileName="ApplicationCore/Models/UserRegisterModel.cs" Line="20" Column="1" />
-      <File FileName="ApplicationCore/Models/UserLoginModel.cs" Line="15" Column="2" />
-      <File FileName="MovieShopMVC/Views/Casts/Details.cshtml" Line="1" Column="1" />
-      <File FileName="MovieShopMVC/appsettings.json" Line="3" Column="27" />
-      <File FileName="MovieShopMVC/movieshop.sql" Line="19" Column="33" />
-      <File FileName="ApplicationCore/Entities/MovieGenre.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Movie.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/ApplicationCore.csproj" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Entities/Cast.cs" Line="1" Column="1" />
-      <File FileName="ApplicationCore/Contracts/Services/IAccountService.cs" Line="9" Column="36" />
-      <File FileName="ApplicationCore/Models/UserLoginSuccessModel.cs" Line="11" Column="2" />
-      <File FileName="Infrastructure/Services/AccountService.cs" Line="26" Column="69" />
-      <File FileName="ApplicationCore/Contracts/Repositories/IUserRepository.cs" Line="9" Column="39" />
-      <File FileName="Infrastructure/Repositories/UserRepository.cs" Line="22" Column="10" />
-      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="20" Column="10" />
-      <File FileName="MovieShopMVC/Program.cs" Line="20" Column="63" />
-      <File FileName="MovieShopMVC/Views/Account/Login.cshtml" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -50,10 +26,13 @@
             </Node>
             <Node name="MovieShopMVC" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Infra" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Account" expanded="True" />
-                <Node name="Casts" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
